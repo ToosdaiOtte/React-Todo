@@ -1,0 +1,4 @@
+[build]
+base = "React-Todo/"
+publish = "React-Todo/build/"
+command = "yarn build"
